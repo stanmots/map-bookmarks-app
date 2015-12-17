@@ -5,8 +5,8 @@ iOS application for managing bookmarks of your favorite locations on a map. You 
 
 Clicking on a bookmark's callout opens a new screen where you can rename your bookmakrs with the help of nearby places list (which is downloaded from Foursquare Venues servers).
 
-**Note:** This project is compatible with iOS 9.1 and Xcode 7.1.1.
-**Note:** Please, replace client_id and client_secret with your own for connecting to Foursquare servers.They are here for testing purpose **only**.
+**Note:** This project is compatible with iOS 9.1 and Xcode 7.1.1.  
+**Note:** Please, replace client_id and client_secret with your own for connecting to Foursquare servers. They are here for testing purpose **only**.  
 
 ###Main UI
 
@@ -15,4 +15,4 @@ Clicking on a bookmark's callout opens a new screen where you can rename your bo
 
 **Note:** This is an open source project under the [GNU General Public License Version 2](https://github.com/storix/bulls-eye/blob/master/LICENSE.md)
 
-[MainInterfaceImageId]: http://s30.postimg.org/aqrss6qa7/App_Preview.gif  "Main Interface"
+[MainInterfaceImageId]: https://github.com/storix/map-bookmarks-app/blob/master/AppPreview.gif  "Main Interface"
